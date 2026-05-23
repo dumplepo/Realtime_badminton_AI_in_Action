@@ -14,8 +14,8 @@ This project utilizes computer vision techniques to detect players and shuttleco
 ## Installation
 1. Clone this repository:
     ```
-    git clone https://github.com/ToanNguyenKhanh/Badminton-Analysis.git
-    cd Badminton-Analysis
+    git clone ~
+    cd ~
     ```
 
 2. Install the required dependencies:
