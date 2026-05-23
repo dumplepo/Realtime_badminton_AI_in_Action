@@ -1,7 +1,7 @@
 # Badminton-Analysis using Computer Vision
 
 ## Introduction
-This project is a real-time badminton tracking system built using computer vision and deep learning techniques. It processes live or recorded single-camera footage to detect and track gameplay dynamics, generating accurate match analytics and performance insights for players and coaching analysis.",
+This project is a real-time badminton tracking system built using computer vision and deep learning techniques. It processes live or recorded single-camera footage to detect and track gameplay dynamics, generating accurate match analytics and performance insights for players and coaching analysis.
 
 ## Result
 
