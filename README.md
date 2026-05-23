@@ -1,7 +1,7 @@
 # Badminton-Analysis using Computer Vision
 
 ## Introduction
-This project utilizes computer vision techniques to detect players and shuttlecocks in badminton games. By leveraging advanced computer vision algorithms, aim to provide accurate detection of players and shuttlecocks to enhance the analysis of badminton matches.
+This project is a real-time badminton tracking system built using computer vision and deep learning techniques. It processes live or recorded single-camera footage to detect and track gameplay dynamics, generating accurate match analytics and performance insights for players and coaching analysis.",
 
 ## Result
 
